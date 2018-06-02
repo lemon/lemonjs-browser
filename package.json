@@ -1,0 +1,17 @@
+{
+  "name": "lemonjs-browser",
+  "version": "1.2.0",
+  "description": "Lemon.js client library",
+  "author": "shenzhen239 <support@shenzhen239.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lemon/lemonjs-browser.git"
+  },
+  "keywords": [
+    "lemon"
+  ],
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
